@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.main{
+    width: 100%;
+    height:100vh;
+    background: url(./5cbe9bc87c9da2c6954772540d2e5db5_1730709895.avif) center center;
+    background-size: cover;
+    
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    color: white;
+    /* justify-content: center; */
+    align-items: center;
+  }
+
+.title{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 10px;
+}
+
+.column{
+    width: 1000px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+input{
+    background-color: rgba(255, 255, 255, 0.9);
+    border-color: transparent;
+    border-radius: 10px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.column div{
+    width: 250px;
+    text-align: center;
+}
