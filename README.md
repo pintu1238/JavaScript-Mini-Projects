@@ -6,7 +6,7 @@
 
 
 #Project 2.) CountDown Timer
-/
+\
 Visit the link:- https://pintu1238.github.io/CountDown-Timer/
 
 ![Preview Image](Countdowntimer.png)
