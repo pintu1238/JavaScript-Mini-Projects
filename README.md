@@ -31,7 +31,11 @@ Visit the link:- https://pintu1238.github.io/CountDown-Timer/
 ![Preview Image](quiz1.png)
 \
 ![Preview Image](quiz2.png)
+\
 
+**Project 5.) Calculator**
+\
+![Preview Image](calculator.png)
 
 
 
